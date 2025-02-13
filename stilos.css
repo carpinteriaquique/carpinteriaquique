@@ -1,0 +1,44 @@
+.titulo{
+    text-align: center;
+    color: white;
+    background-color: #7f4e3d;
+    padding: 10px;
+}
+
+.menu{
+    list-style: none;
+    overflow: hidden;
+    background-color: rgb(43, 42, 42);
+
+}
+.men-link {
+    padding: 0.5rem 1rem ;
+    color: #7f4e3d ;
+}
+
+
+.sobre_nostros{
+    text-align: center;
+    align-items: center;
+}
+
+.marron_claro{
+    background-color: #cfb9b2;
+}
+body{
+    background-color: #faebd7;
+}
+.pie{
+
+    width: 100%;
+    left: 0;
+    bottom: 3;
+    background-color: #7f4e3d;
+    height: 5%;
+    text-align: right;
+    color:azure;
+    padding: 1%;
+}
+.ubicacion{
+    padding: 2px;
+}
