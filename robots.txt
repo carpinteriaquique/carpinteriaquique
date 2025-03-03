@@ -1,3 +1,5 @@
 User-agent: *
 Allow:/
+User-agent: DuckDuckBot
+Allow:/
 Sitemap: https://carpinteriaquique.es/sitemap.xml
